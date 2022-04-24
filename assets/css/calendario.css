@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li{
+font-size: 0.9rem;
+}
+.card-title {
+    font-size: 1rem;
+}
+
+.card-subtitle {
+    font-size: 0.8rem;
+    background-color: #6167d93b;
+    border-style: none!important;
+    color: black!important;
+    padding-bottom: 6px!important;
+}
+
+.btn-primary {
+    background-color:#fe4432!important ;
+    border-style: none!important;
+    border-radius: 0;
+}
+.day-title{
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 1rem 0;
+    color: white;
+}
+.day-icon{
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #343a40;
+    background-color: white;
+    padding: 0.5rem 1rem;
+    position: relative;
+    top: -15px;
+}
+
+.day-container{
+    background-color: #2e35a6!important;
+}
+
+.card-body{
+    padding-bottom: 0.5rem;
+}
+
+#Calendar{
+    padding: 5rem 0;
+}
